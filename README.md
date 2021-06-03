@@ -1,7 +1,10 @@
 # Video-angle-measurement-program
 An angle measurement program from experiment videos
 
-![Video](/Video.mp4.mov)
+
+https://user-images.githubusercontent.com/84999739/120651122-19f44500-c487-11eb-9fdf-301d75bcdafa.mp4
+
+
 
 Input:
 A video file
